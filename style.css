@@ -1,0 +1,17 @@
+.balk {
+	width: 200px;
+}
+
+.rondehoek {
+	border-radius: 30px;
+}
+
+.opmerkingen {
+	color: red;
+	border: solid;
+}
+
+.opmerkingen:focus {
+	color: green;
+	border: solid;
+}
